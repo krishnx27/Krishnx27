@@ -29,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnx27&show_icons=true&locale=en" alt="krishnx27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnx27&" alt="krishnx27" /></p>
-https://github.com/krishnx27/Krishnx27/blob/main/Dark%20Grey%20and%20Red%20Modern%20Manager%20LinkedIn%20Career%20Page%20Background.png
+
