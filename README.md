@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **trykrishna2701@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/mahaj/Downloads/my%20resume%20-%202024-10-24%2019_17_37.pdf](file:///C:/Users/mahaj/Downloads/my%20resume%20-%202024-10-24%2019_17_37.pdf)
+- 📄 Know about my experiences [Click here to view my resume](file:///C:/Users/mahaj/Downloads/my%20resume%20-%202024-10-24%2019_17_37.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
