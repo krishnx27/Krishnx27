@@ -4,16 +4,17 @@
 <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnx27&label=Profile%20views&color=0e75b6&style=flat" alt="krishnx27" /> </p>
+- 🔭 I’m currently working as an **AI/LLM Analyst (Level 2)** at **Innodata India Pvt. Ltd.** (A+ Category).
 
-- 🔭 I’m currently working on **IBM Cloud WatsonX-chatBot**
+- 🎓 I recently graduated with a B.Tech in CSE (Data Science) from **IPS Academy, Indore** (July pass out).
 
-- 🌱 I’m currently learning **Final Year Data Science student At IPS Academy,Indore**
+- 🌱 I’m currently focusing on **RLHF, LLM Optimization, and Data-Driven Automation**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/krishnx27](https://github.com/krishnx27)
+- 👨‍💻 All of my projects are available at **[https://github.com/krishnx27](https://github.com/krishnx27)**
 
-- 📫 How to reach me **trykrishna2701@gmail.com**
+- 📫 How to reach me: **trykrishna2701@gmail.com**
 
-- 📄 Know about my experiences - ** [Click here to view my resume]([file:///C:/Users/mahaj/Downloads/my%20resume%20-%202024-10-24%2019_17_37.pdf](https://drive.google.com/file/d/1QUVaU1tCOs6-ksuuiKPfLe6LWd9fVB8f/view?usp=sharing) **
+- 📄 Know about my experiences - **[Click here to view my resume](https://drive.google.com/file/d/1QUVaU1tCOs6-ksuuiKPfLe6LWd9fVB8f/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
