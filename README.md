@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **trykrishna2701@gmail.com**
 
-- 📄 Know about my experiences - **[Click here to view my resume](https://drive.google.com/file/d/1QUVaU1tCOs6-ksuuiKPfLe6LWd9fVB8f/view?usp=sharing)**
+- 📄 Know about my experiences - **[Click here to view my resume](https://drive.google.com/file/d/1BBrddAONq4v0dnyEy4PgG2v9Fz-lxW07/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
